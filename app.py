@@ -162,5 +162,5 @@ with right:
     Dataset: Batik Nusantara  
     """)
 
-    st.success("Aplikasi ini sudah **mobile friendly** dan siap digunakan di HP!")
+    st.success("")
 
